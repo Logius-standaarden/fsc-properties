@@ -10,6 +10,7 @@ loadRespecWithConfiguration({
     shortName: "properties",
     publishDate: "2025-05-26",
     publishVersion: "1.0.0",
+    prevVersion: [],
 
     editors:
         [
